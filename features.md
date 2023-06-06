@@ -2,7 +2,7 @@
 
 (These features are planning features, they will be filtered)
 
-Certainly, as an expert in APM platforms, I can provide you with some features for an APM platform based on the Kano model. The Kano model is a customer satisfaction model that classifies product features into three categories: must-haves, performance features, and delighters.
+### Features based on Kano model
 
 1. Must-haves: These are features that customers expect to be included in an APM platform. Examples of must-have features include:
 - Real-time monitoring of application performance, including response times, error rates, and resource utilization
