@@ -7,3 +7,10 @@
 | InfluxDB     | High write loads, SQL-like query language, automatic data partitioning and sharding, data compression | SQL-like query language, automatic data partitioning and sharding, data compression | Horizontal scaling across multiple nodes, automatic data partitioning and sharding | High write loads and query concurrency |
 
 It's important to note that the specific performance, features, scalability, and high load capabilities of these databases can vary depending on the specific use case and workload. It's recommended to evaluate each database in the context of your specific requirements and perform benchmarks to ensure that it meets your performance and scalability needs.
+
+| Database    | Performance         | Scalability            | Availability | Ease of Use |
+|-------------|---------------------|------------------------|--------------|-------------|
+| Apache Cassandra | High write and query loads, horizontal scaling across multiple nodes | Automatic data partitioning, support for multiple data centers | High availability, tunable consistency | Moderately complex, requires some expertise to configure and maintain |
+| ScyllaDB    | High write and query loads, horizontal scaling across multiple nodes | Automatic data partitioning, support for multiple data centers | High availability, tunable consistency | Moderately complex, requires some expertise to configure and maintain |
+| Apache HBase | High write and query loads, horizontal scaling across multiple nodes | Automatic data partitioning, support for multiple data centers | High availability, tunable consistency | Moderately complex, requires some expertise to configure and maintain |
+| Riak        | High availability, automatic data partitioning, support for complex data types | Horizontal scaling across multiple nodes | High availability, tunable consistency | Moderately complex, requires some expertise to configure and maintain |
